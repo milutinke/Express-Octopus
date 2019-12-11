@@ -338,4 +338,4 @@ module.exports = DeleteUser;
 # Contributing:
 If you have any suggestions, ideas or you have found a bug, feel free to contribute :)
 
-Github Repository: 
+Github Repository: [https://github.com/milutinke/Express-Octopus](https://github.com/milutinke/Express-Octopus)
