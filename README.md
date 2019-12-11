@@ -333,7 +333,7 @@ module.exports = DeleteUser;
 ```
 
 # TODO:
-- Validate parameters with Regex
+- Validate URL parameters with Regex
 
 # Contributing:
 If you have any suggestions, ideas or you have found a bug, feel free to contribute :)
