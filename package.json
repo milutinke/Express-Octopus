@@ -1,0 +1,25 @@
+{
+  "name": "express-octopus",
+  "version": "1.0.0",
+  "description": "Simple framework for Express Auto-Routing in a structured and scalable way.",
+  "main": "index.js",
+  "keywords": [
+    "express",
+    "auto-routing",
+    "routing",
+    "autorouting",
+    "route",
+    "express-octopus",
+    "octopus"
+  ],
+  "author": "Dusan Milutinovic",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "update-notifier": "^3.0.1"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/milutinke/Express-Octopus.git"
+  }
+}
